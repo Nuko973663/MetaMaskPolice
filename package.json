@@ -1,0 +1,25 @@
+{
+  "name": "metamaskpolice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuko973663/MetaMaskPolice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuko973663/MetaMaskPolice/issues"
+  },
+  "homepage": "https://github.com/Nuko973663/MetaMaskPolice#readme",
+  "dependencies": {
+    "@types/node": "^17.0.18",
+    "twitter-api-v2": "^1.11.0",
+    "typescript": "^4.5.5"
+  }
+}
